@@ -1,0 +1,24 @@
+body{
+    background-color: plum;
+}
+
+.sec1{
+    max-width: 40rem;
+    background-color: grey;
+    color: white;
+    margin-left: 15%;
+    padding: 10%;
+
+
+}
+
+
+.job_cat{
+    margin-left: 30%;
+    color: white;
+
+}
+
+a{
+    text-decoration: none;
+}
